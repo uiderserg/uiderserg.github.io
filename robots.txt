@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uiderserg.github.io/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/app/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/assets/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/css/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/data/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/includes/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/item/sitemap.html.gz
+Sitemap: https://uiderserg.github.io/src/sitemap.html.gz
